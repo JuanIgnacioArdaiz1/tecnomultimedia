@@ -16,9 +16,6 @@ fill(37, 28, 20);
 ellipse(200, 380, 80, 150);
 
 
-
-
-
 noStroke();
 
 //PIEL AMARILLA
@@ -49,6 +46,7 @@ ellipse(240, 119, 50, 40);
 
 //PICO CELESTE
 fill(64, 166, 172);
+triangle(250, 135, 800, 195, 240, 150);
 
 //LINEA NARIZ
 strokeWeight(10);
@@ -56,9 +54,6 @@ stroke(37, 28, 20);
 line(204, 65, 204, 180);
 strokeWeight(5);
 line(204, 183, 260, 180);
-
-
-
 
 
 image(tucan, 400, 0);
